@@ -9,5 +9,7 @@ public class LaunchApp
 		
 		ApplicationContext context =
 			    new ClassPathXmlApplicationContext("applicationconfig.xml");
+		Telusko tel = context.getBean("telusko" , Telusko.class);
+		tel.buyCourse(1000);
 	}
 }
