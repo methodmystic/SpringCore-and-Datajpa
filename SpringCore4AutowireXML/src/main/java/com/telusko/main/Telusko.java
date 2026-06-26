@@ -15,7 +15,7 @@ public class Telusko
 	public Telusko()
 	{
 		super();
-		System.out.println("Telusko bean created(constructor)");
+		System.out.println("Telusko bean created(constructorr)");
 	}
 	
 	public void setCourse(Icourse course) 
