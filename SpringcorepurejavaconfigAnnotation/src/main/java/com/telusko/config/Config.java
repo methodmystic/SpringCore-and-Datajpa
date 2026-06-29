@@ -15,7 +15,7 @@ public class Config
 	@Bean 
 	public Password config1()
 	{
-		Password pass = new Password("SHA");//instance 
-		return pass;
+		Password password = new Password("SHA");//instance
+		return password;
 	}
 }
