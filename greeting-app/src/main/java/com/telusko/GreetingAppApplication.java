@@ -9,9 +9,9 @@ public class GreetingAppApplication {
 
 	public static void main(String[] args) 
 	{
-		ConfigurableApplicationContext container = 
+		ConfigurableApplicationContext context =
 				SpringApplication.run(GreetingAppApplication.class, args);
-		IGreeting greet = container.getBean(IGreeting.class);
+		IGreeting greet = context.getBean(IGreeting.class);
 		
 		System.out.println(greet.generateGreetings("Pranav"));
 	}
