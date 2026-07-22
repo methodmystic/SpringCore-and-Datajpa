@@ -13,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "methodmystic"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:methodmystic/SpringBoot.git",
+    "accountId": "fa47ee4e-91fb-42c2-8035-aa57b7873ecb"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
@@ -42,6 +54,19 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Springboot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Springboot" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f27c605c-08c4-4ee5-a341-3af921456035" name="Changes" comment="" />
@@ -56,6 +81,7 @@
       <workItem from="1782974441843" duration="56000" />
       <workItem from="1782990899275" duration="1124000" />
       <workItem from="1783186224263" duration="1754000" />
+      <workItem from="1784542991717" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="day 6">
       <option name="closed" value="true" />
